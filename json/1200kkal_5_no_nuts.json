@@ -1,0 +1,884 @@
+[
+    [
+        {
+            "img": "https://storage.growfood.pro/s1/images/menus/big_833bd3961f227933c329f04f83058e7c.jpeg",
+            "title": "1. Завтрак",
+            "name": "Ванильная гранола",
+            "data": [
+                {
+                    "amount": "319.6",
+                    "type": "Ккал"
+                },
+                {
+                    "amount": "15.2",
+                    "type": "Белки"
+                },
+                {
+                    "amount": "15.6",
+                    "type": "Жиры"
+                },
+                {
+                    "amount": "29.6",
+                    "type": "Углеводы"
+                }
+            ]
+        },
+        {
+            "img": "https://storage.growfood.pro/s1/images/menus/big_191dd304462ad2e3d1f53311a6df53d7.jpeg",
+            "title": "2. Второй завтрак",
+            "name": "Сырники на кукурузной муке",
+            "data": [
+                {
+                    "amount": "286.4",
+                    "type": "Ккал"
+                },
+                {
+                    "amount": "24.5",
+                    "type": "Белки"
+                },
+                {
+                    "amount": "9.7",
+                    "type": "Жиры"
+                },
+                {
+                    "amount": "25.3",
+                    "type": "Углеводы"
+                }
+            ]
+        },
+        {
+            "img": "https://storage.growfood.pro/s1/images/menus/big_9688d0a976032cf9183f1a9d64267921.jpeg",
+            "title": "3. Обед",
+            "name": "Перлотто с индейкой",
+            "data": [
+                {
+                    "amount": "270.1",
+                    "type": "Ккал"
+                },
+                {
+                    "amount": "19.5",
+                    "type": "Белки"
+                },
+                {
+                    "amount": "9.7",
+                    "type": "Жиры"
+                },
+                {
+                    "amount": "30.2",
+                    "type": "Углеводы"
+                }
+            ]
+        },
+        {
+            "img": "https://storage.growfood.pro/s1/images/menus/big_9a779f086f68a711ff9d503dce18cefb.jpeg",
+            "title": "4. Полдник",
+            "name": "Салат из свеклы с фетой",
+            "data": [
+                {
+                    "amount": "127.0",
+                    "type": "Ккал"
+                },
+                {
+                    "amount": "4.3",
+                    "type": "Белки"
+                },
+                {
+                    "amount": "7.5",
+                    "type": "Жиры"
+                },
+                {
+                    "amount": "10.6",
+                    "type": "Углеводы"
+                }
+            ]
+        },
+        {
+            "img": "https://storage.growfood.pro/s1/images/menus/big_4c8ed00000e82790d9b61dbc4738e0ba.jpeg",
+            "title": "5. Ужин",
+            "name": "Куриная грудка су-вид с рикоттой",
+            "data": [
+                {
+                    "amount": "195.3",
+                    "type": "Ккал"
+                },
+                {
+                    "amount": "26.6",
+                    "type": "Белки"
+                },
+                {
+                    "amount": "9.0",
+                    "type": "Жиры"
+                },
+                {
+                    "amount": "2.0",
+                    "type": "Углеводы"
+                }
+            ]
+        },
+        {
+            "title": "Итог",
+            "day": "Всего в понедельник 1198.4 ккал",
+            "materials": [
+                "90.1 Белки ",
+                "51.5 Жиры ",
+                "97.7 Углеводы "
+            ]
+        }
+    ],
+    [
+        {
+            "img": "https://storage.growfood.pro/s1/images/menus/big_1fc38788e7be97690c50eceb9c08a434.jpeg",
+            "title": "1. Завтрак",
+            "name": "Фирменный шоколадно-кокосовый торт. Овсяная каша с черникой",
+            "data": [
+                {
+                    "amount": "356.5",
+                    "type": "Ккал"
+                },
+                {
+                    "amount": "23.9",
+                    "type": "Белки"
+                },
+                {
+                    "amount": "10.7",
+                    "type": "Жиры"
+                },
+                {
+                    "amount": "41.0",
+                    "type": "Углеводы"
+                }
+            ]
+        },
+        {
+            "img": "https://storage.growfood.pro/s1/images/menus/big_fed68f83ccddcccb9bace8a76e0e21be.jpeg",
+            "title": "2. Второй завтрак",
+            "name": "Творожно-шоколадные шарики с кокосом",
+            "data": [
+                {
+                    "amount": "221.0",
+                    "type": "Ккал"
+                },
+                {
+                    "amount": "18.7",
+                    "type": "Белки"
+                },
+                {
+                    "amount": "11.7",
+                    "type": "Жиры"
+                },
+                {
+                    "amount": "10.3",
+                    "type": "Углеводы"
+                }
+            ]
+        },
+        {
+            "img": "https://storage.growfood.pro/s1/images/menus/big_809ab30977077c6044feadd4c463936a.jpeg",
+            "title": "3. Обед",
+            "name": "Куриное филе су-вид в соусе песто с томатами и гречка с зеленью",
+            "data": [
+                {
+                    "amount": "359.2",
+                    "type": "Ккал"
+                },
+                {
+                    "amount": "32.5",
+                    "type": "Белки"
+                },
+                {
+                    "amount": "11.3",
+                    "type": "Жиры"
+                },
+                {
+                    "amount": "32.0",
+                    "type": "Углеводы"
+                }
+            ]
+        },
+        {
+            "img": "https://storage.growfood.pro/s1/images/menus/big_fb8737c6b1a93f2ca5d3736cb04848a9.jpeg",
+            "title": "4. Полдник",
+            "name": "Оладьи из шпината",
+            "data": [
+                {
+                    "amount": "139.3",
+                    "type": "Ккал"
+                },
+                {
+                    "amount": "12.1",
+                    "type": "Белки"
+                },
+                {
+                    "amount": "9.2",
+                    "type": "Жиры"
+                },
+                {
+                    "amount": "2.1",
+                    "type": "Углеводы"
+                }
+            ]
+        },
+        {
+            "img": "https://storage.growfood.pro/s1/images/menus/big_039a65573abb10f0cee937261a6d9d7a.jpeg",
+            "title": "5. Ужин",
+            "name": "Яичный блинчик с паштетом из тунца",
+            "data": [
+                {
+                    "amount": "122.1",
+                    "type": "Ккал"
+                },
+                {
+                    "amount": "14.6",
+                    "type": "Белки"
+                },
+                {
+                    "amount": "6.5",
+                    "type": "Жиры"
+                },
+                {
+                    "amount": "1.2",
+                    "type": "Углеводы"
+                }
+            ]
+        },
+        {
+            "title": "Итог",
+            "day": "Всего во вторник 1198.1 ккал",
+            "materials": [
+                "101.8 Белки ",
+                "49.4 Жиры ",
+                "86.6 Углеводы "
+            ]
+        }
+    ],
+    [
+        {
+            "img": "https://storage.growfood.pro/s1/images/menus/big_bc2e217bdc5f62723197f5e1bb13c722.jpeg",
+            "title": "1. Завтрак",
+            "name": "Смузи-боул с ягодами годжи. Шоколадные блинчики.",
+            "data": [
+                {
+                    "amount": "478.7",
+                    "type": "Ккал"
+                },
+                {
+                    "amount": "36.6",
+                    "type": "Белки"
+                },
+                {
+                    "amount": "19.2",
+                    "type": "Жиры"
+                },
+                {
+                    "amount": "39.8",
+                    "type": "Углеводы"
+                }
+            ]
+        },
+        {
+            "img": "https://storage.growfood.pro/s1/images/menus/big_7e4e3a360a6cb0831cb8a671d2e3fff1.jpeg",
+            "title": "2. Второй завтрак",
+            "name": "Шарлотка с грушей и миндалем",
+            "data": [
+                {
+                    "amount": "179.2",
+                    "type": "Ккал"
+                },
+                {
+                    "amount": "8.1",
+                    "type": "Белки"
+                },
+                {
+                    "amount": "4.7",
+                    "type": "Жиры"
+                },
+                {
+                    "amount": "26.1",
+                    "type": "Углеводы"
+                }
+            ]
+        },
+        {
+            "img": "https://storage.growfood.pro/s1/images/menus/big_5414f32992dfd61c76592debf30ee1ee.jpeg",
+            "title": "3. Обед",
+            "name": "Плов из риса рубин с курицей",
+            "data": [
+                {
+                    "amount": "231.4",
+                    "type": "Ккал"
+                },
+                {
+                    "amount": "15.8",
+                    "type": "Белки"
+                },
+                {
+                    "amount": "6.4",
+                    "type": "Жиры"
+                },
+                {
+                    "amount": "27.7",
+                    "type": "Углеводы"
+                }
+            ]
+        },
+        {
+            "img": "https://storage.growfood.pro/s1/images/menus/big_e2168908d771ee70e06dc06d68b9304b.jpeg",
+            "title": "4. Полдник",
+            "name": "Салат из свежих овощей с кабачками и скрэмблом",
+            "data": [
+                {
+                    "amount": "142.8",
+                    "type": "Ккал"
+                },
+                {
+                    "amount": "4.7",
+                    "type": "Белки"
+                },
+                {
+                    "amount": "11.8",
+                    "type": "Жиры"
+                },
+                {
+                    "amount": "4.5",
+                    "type": "Углеводы"
+                }
+            ]
+        },
+        {
+            "img": "https://storage.growfood.pro/s1/images/menus/big_9711ccf867c1e05ba60d05ffb64821c6.jpeg",
+            "title": "5. Ужин",
+            "name": "Фирменная пицца с соусом бешамель",
+            "data": [
+                {
+                    "amount": "157.2",
+                    "type": "Ккал"
+                },
+                {
+                    "amount": "17.1",
+                    "type": "Белки"
+                },
+                {
+                    "amount": "6.8",
+                    "type": "Жиры"
+                },
+                {
+                    "amount": "7.0",
+                    "type": "Углеводы"
+                }
+            ]
+        },
+        {
+            "title": "Итог",
+            "day": "Всего в среду 1189.3 ккал",
+            "materials": [
+                "82.3 Белки ",
+                "48.9 Жиры ",
+                "105.1 Углеводы "
+            ]
+        }
+    ],
+    [
+        {
+            "img": "https://storage.growfood.pro/s1/images/menus/big_0744f52c2cfb6adfbd6f77ac0331524a.jpeg",
+            "title": "1. Завтрак",
+            "name": "Яблочный пай. Пшенная каша с малиной",
+            "data": [
+                {
+                    "amount": "262.0",
+                    "type": "Ккал"
+                },
+                {
+                    "amount": "17.7",
+                    "type": "Белки"
+                },
+                {
+                    "amount": "4.6",
+                    "type": "Жиры"
+                },
+                {
+                    "amount": "37.3",
+                    "type": "Углеводы"
+                }
+            ]
+        },
+        {
+            "img": "https://storage.growfood.pro/s1/images/menus/big_d40e6443779ba5f9ce95ae512e7b7785.jpeg",
+            "title": "2. Второй завтрак",
+            "name": "Смузи-боул с клубникой и киви",
+            "data": [
+                {
+                    "amount": "184.4",
+                    "type": "Ккал"
+                },
+                {
+                    "amount": "17.0",
+                    "type": "Белки"
+                },
+                {
+                    "amount": "5.6",
+                    "type": "Жиры"
+                },
+                {
+                    "amount": "16.4",
+                    "type": "Углеводы"
+                }
+            ]
+        },
+        {
+            "img": "https://storage.growfood.pro/s1/images/menus/big_f9096394bbdc90f2ed5ec132c8bd68d2.jpeg",
+            "title": "3. Обед",
+            "name": "Куриная котлета чили с гречкой",
+            "data": [
+                {
+                    "amount": "374.6",
+                    "type": "Ккал"
+                },
+                {
+                    "amount": "24.3",
+                    "type": "Белки"
+                },
+                {
+                    "amount": "11.5",
+                    "type": "Жиры"
+                },
+                {
+                    "amount": "43.6",
+                    "type": "Углеводы"
+                }
+            ]
+        },
+        {
+            "img": "https://storage.growfood.pro/s1/images/menus/big_8b373d9a189d178027868078faf70ea9.jpeg",
+            "title": "4. Полдник",
+            "name": "Морковно-куриное суфле",
+            "data": [
+                {
+                    "amount": "124.0",
+                    "type": "Ккал"
+                },
+                {
+                    "amount": "16.5",
+                    "type": "Белки"
+                },
+                {
+                    "amount": "4.7",
+                    "type": "Жиры"
+                },
+                {
+                    "amount": "3.8",
+                    "type": "Углеводы"
+                }
+            ]
+        },
+        {
+            "img": "https://storage.growfood.pro/s1/images/menus/big_f0a7ff42b28627834c3ee6f15a7d4bc9.jpeg",
+            "title": "5. Ужин",
+            "name": "Куриный шашлык терияки и овощи на пару",
+            "data": [
+                {
+                    "amount": "257.0",
+                    "type": "Ккал"
+                },
+                {
+                    "amount": "24.5",
+                    "type": "Белки"
+                },
+                {
+                    "amount": "14.0",
+                    "type": "Жиры"
+                },
+                {
+                    "amount": "8.2",
+                    "type": "Углеводы"
+                }
+            ]
+        },
+        {
+            "title": "Итог",
+            "day": "Всего в четверг 1202.0 ккал",
+            "materials": [
+                "100.0 Белки ",
+                "40.4 Жиры ",
+                "109.3 Углеводы "
+            ]
+        }
+    ],
+    [
+        {
+            "img": "https://storage.growfood.pro/s1/images/menus/big_fb56a6f2d28c8aaa8d883b75c3324606.jpeg",
+            "title": "1. Завтрак",
+            "name": "Брауни. Десерт Тирамису",
+            "data": [
+                {
+                    "amount": "251.3",
+                    "type": "Ккал"
+                },
+                {
+                    "amount": "23.1",
+                    "type": "Белки"
+                },
+                {
+                    "amount": "9.4",
+                    "type": "Жиры"
+                },
+                {
+                    "amount": "18.7",
+                    "type": "Углеводы"
+                }
+            ]
+        },
+        {
+            "img": "https://storage.growfood.pro/s1/images/menus/big_6cad6fc4917911cfea4424011657d78a.jpeg",
+            "title": "2. Второй завтрак",
+            "name": "Рисовые блинчики с творогом и печеными яблоками",
+            "data": [
+                {
+                    "amount": "310.8",
+                    "type": "Ккал"
+                },
+                {
+                    "amount": "12.7",
+                    "type": "Белки"
+                },
+                {
+                    "amount": "16.8",
+                    "type": "Жиры"
+                },
+                {
+                    "amount": "27.2",
+                    "type": "Углеводы"
+                }
+            ]
+        },
+        {
+            "img": "https://storage.growfood.pro/s1/images/menus/big_2379ec1aec93b2bd5cb40ef2ddcd28bd.jpeg",
+            "title": "3. Обед",
+            "name": "Люля песто из индейки с булгуром",
+            "data": [
+                {
+                    "amount": "308.6",
+                    "type": "Ккал"
+                },
+                {
+                    "amount": "28.5",
+                    "type": "Белки"
+                },
+                {
+                    "amount": "9.5",
+                    "type": "Жиры"
+                },
+                {
+                    "amount": "27.2",
+                    "type": "Углеводы"
+                }
+            ]
+        },
+        {
+            "img": "https://storage.growfood.pro/s1/images/menus/big_96e16ea8d227737adfa4882ce30fe65d.jpeg",
+            "title": "4. Полдник",
+            "name": "Жюльен",
+            "data": [
+                {
+                    "amount": "212.2",
+                    "type": "Ккал"
+                },
+                {
+                    "amount": "19.1",
+                    "type": "Белки"
+                },
+                {
+                    "amount": "12.6",
+                    "type": "Жиры"
+                },
+                {
+                    "amount": "5.7",
+                    "type": "Углеводы"
+                }
+            ]
+        },
+        {
+            "img": "https://storage.growfood.pro/s1/images/menus/big_ee4c937408d3d1825ef4b8d41dce682e.jpeg",
+            "title": "5. Ужин",
+            "name": "Яичный блинчик с курицей и шпинатом",
+            "data": [
+                {
+                    "amount": "159.0",
+                    "type": "Ккал"
+                },
+                {
+                    "amount": "18.2",
+                    "type": "Белки"
+                },
+                {
+                    "amount": "8.8",
+                    "type": "Жиры"
+                },
+                {
+                    "amount": "1.7",
+                    "type": "Углеводы"
+                }
+            ]
+        },
+        {
+            "title": "Итог",
+            "day": "Всего в пятницу 1241.9 ккал",
+            "materials": [
+                "101.6 Белки ",
+                "57.1 Жиры ",
+                "80.5 Углеводы "
+            ]
+        }
+    ],
+    [
+        {
+            "img": "https://storage.growfood.pro/s1/images/menus/big_abe34ff7e2215d331e3ff52fe7c88cf9.jpeg",
+            "title": "1. Завтрак",
+            "name": "Кокосовые панкейки. Запеченные яблоки",
+            "data": [
+                {
+                    "amount": "347.7",
+                    "type": "Ккал"
+                },
+                {
+                    "amount": "10.4",
+                    "type": "Белки"
+                },
+                {
+                    "amount": "12.7",
+                    "type": "Жиры"
+                },
+                {
+                    "amount": "48.0",
+                    "type": "Углеводы"
+                }
+            ]
+        },
+        {
+            "img": "https://storage.growfood.pro/s1/images/menus/big_af257982a12bae257bee20658564db4a.jpeg",
+            "title": "2. Второй завтрак",
+            "name": "Творожная запеканка с черникой и тыквенными семечками",
+            "data": [
+                {
+                    "amount": "194.3",
+                    "type": "Ккал"
+                },
+                {
+                    "amount": "21.6",
+                    "type": "Белки"
+                },
+                {
+                    "amount": "7.0",
+                    "type": "Жиры"
+                },
+                {
+                    "amount": "11.2",
+                    "type": "Углеводы"
+                }
+            ]
+        },
+        {
+            "img": "https://storage.growfood.pro/s1/images/menus/big_e10f7622287a3df99dc10aacae3b93b7.jpeg",
+            "title": "3. Обед",
+            "name": "Плов из булгура с индейкой",
+            "data": [
+                {
+                    "amount": "278.3",
+                    "type": "Ккал"
+                },
+                {
+                    "amount": "20.9",
+                    "type": "Белки"
+                },
+                {
+                    "amount": "7.5",
+                    "type": "Жиры"
+                },
+                {
+                    "amount": "31.9",
+                    "type": "Углеводы"
+                }
+            ]
+        },
+        {
+            "img": "https://storage.growfood.pro/s1/images/menus/big_15f4d9f1598dc67888f679907d39fed2.jpeg",
+            "title": "4. Полдник",
+            "name": "Салат с тунцом и фетой",
+            "data": [
+                {
+                    "amount": "126.5",
+                    "type": "Ккал"
+                },
+                {
+                    "amount": "7.5",
+                    "type": "Белки"
+                },
+                {
+                    "amount": "9.8",
+                    "type": "Жиры"
+                },
+                {
+                    "amount": "2.2",
+                    "type": "Углеводы"
+                }
+            ]
+        },
+        {
+            "img": "https://storage.growfood.pro/s1/images/menus/big_465de0fcf0f30e4652bd684ed1a3c684.jpeg",
+            "title": "5. Ужин",
+            "name": "Курица терияки с пряной свеклой",
+            "data": [
+                {
+                    "amount": "260.1",
+                    "type": "Ккал"
+                },
+                {
+                    "amount": "23.5",
+                    "type": "Белки"
+                },
+                {
+                    "amount": "13.8",
+                    "type": "Жиры"
+                },
+                {
+                    "amount": "10.5",
+                    "type": "Углеводы"
+                }
+            ]
+        },
+        {
+            "title": "Итог",
+            "day": "Всего в субботу 1206.9 ккал",
+            "materials": [
+                "83.9 Белки ",
+                "50.8 Жиры ",
+                "103.8 Углеводы "
+            ]
+        }
+    ],
+    [
+        {
+            "img": "https://storage.growfood.pro/s1/images/menus/big_1736e1d1c0a353abbbeb2106ea81b0bd.jpeg",
+            "title": "1. Завтрак",
+            "name": "Овсяный пай с сухофруктами. Творожное суфле с курицей",
+            "data": [
+                {
+                    "amount": "260.2",
+                    "type": "Ккал"
+                },
+                {
+                    "amount": "21.2",
+                    "type": "Белки"
+                },
+                {
+                    "amount": "11.7",
+                    "type": "Жиры"
+                },
+                {
+                    "amount": "17.6",
+                    "type": "Углеводы"
+                }
+            ]
+        },
+        {
+            "img": "https://storage.growfood.pro/s1/images/menus/big_ae5fb8e6047725ed88bdb89cf2d4002a.jpeg",
+            "title": "2. Второй завтрак",
+            "name": "Японские сырники",
+            "data": [
+                {
+                    "amount": "284.1",
+                    "type": "Ккал"
+                },
+                {
+                    "amount": "20.7",
+                    "type": "Белки"
+                },
+                {
+                    "amount": "8.5",
+                    "type": "Жиры"
+                },
+                {
+                    "amount": "31.4",
+                    "type": "Углеводы"
+                }
+            ]
+        },
+        {
+            "img": "https://storage.growfood.pro/s1/images/menus/big_f0e2af7fe17a4355144e39ffd12686a3.jpeg",
+            "title": "3. Обед",
+            "name": "Куриные наггетсы и нут в пряном соусе",
+            "data": [
+                {
+                    "amount": "312.1",
+                    "type": "Ккал"
+                },
+                {
+                    "amount": "27.3",
+                    "type": "Белки"
+                },
+                {
+                    "amount": "11.2",
+                    "type": "Жиры"
+                },
+                {
+                    "amount": "25.4",
+                    "type": "Углеводы"
+                }
+            ]
+        },
+        {
+            "img": "https://storage.growfood.pro/s1/images/menus/big_a26ecf3fec9a9c6b934da0d40664900f.jpeg",
+            "title": "4. Полдник",
+            "name": "Яичный блинчик с маслинами и моцареллой",
+            "data": [
+                {
+                    "amount": "179.1",
+                    "type": "Ккал"
+                },
+                {
+                    "amount": "13.6",
+                    "type": "Белки"
+                },
+                {
+                    "amount": "13.2",
+                    "type": "Жиры"
+                },
+                {
+                    "amount": "1.4",
+                    "type": "Углеводы"
+                }
+            ]
+        },
+        {
+            "img": "https://storage.growfood.pro/s1/images/menus/big_d9a34c4e3c99b08614f41f8cc97d1cc2.jpeg",
+            "title": "5. Ужин",
+            "name": "Куриные котлеты с сельдереем и кабачками",
+            "data": [
+                {
+                    "amount": "171.4",
+                    "type": "Ккал"
+                },
+                {
+                    "amount": "23.0",
+                    "type": "Белки"
+                },
+                {
+                    "amount": "7.4",
+                    "type": "Жиры"
+                },
+                {
+                    "amount": "3.3",
+                    "type": "Углеводы"
+                }
+            ]
+        },
+        {
+            "title": "Итог",
+            "day": "Всего в воскресенье 1206.9 ккал",
+            "materials": [
+                "105.8 Белки ",
+                "52.0 Жиры ",
+                "79.1 Углеводы "
+            ]
+        }
+    ]
+]
